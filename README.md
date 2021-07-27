@@ -1,7 +1,7 @@
-<h1>Folders:</h1>
+## Folders:
 * [University Projects](https://github.com/Liam-Robertson-university)
 * Syllabary
-  * Utils
+* Utils
 * Diagram Planner
 
 
