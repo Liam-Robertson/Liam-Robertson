@@ -24,7 +24,7 @@ Overview:
 - Open Animation - Web application to open source animation projects - allowing artist's to collaborate on animation
 - Astrophysics analysis - Using python to analyse star clusters for spiral galaxies
 
-There are many other projects as well, but I won't overview them all.  
+There are lots of other projects as well, but I won't overview them all.  
 
 
 
