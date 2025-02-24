@@ -9,6 +9,14 @@ Key Projects:
 - Poem Generator - Desktop Development - https://github.com/Liam-Robertson/poem-generator-electron
 - Open Animation - Web Development - https://github.com/Liam-Robertson/open-animation-frontend
 
+Overview: 
+- Open Party - Using Generative AI to make local government more transparent - financial analysis/ policy analysis
+- Smart Alarm Project - Building a smart alarm clock end to end - with full mobile application, firmware, PCB electronics design, and hardware
+- Poem Generator - Built a web application to showcase artist's poetry
+- Open Animation - Web application to open source animation projects - allowing artist's to collaborate on animation
+- Astrophysics analysis - Using python to analyse star clusters for spiral galaxies
+
+There are lots of other projects as well, but I won't overview them all.  
 
 These projects include anything I'm interested in and have taught myself so there is a wide range of projects and technologies such as: 
 - Generative AI (python scripting, Open AI, API, RAG etc)
@@ -19,14 +27,6 @@ These projects include anything I'm interested in and have taught myself so ther
 - Astrophysics work (Python, data analysis) 
 
 
-Overview: 
-- Open Party - Using Generative AI to make local government more transparent - financial analysis/ policy analysis
-- Smart Alarm Project - Building a smart alarm clock end to end - with full mobile application, firmware, PCB electronics design, and hardware
-- Poem Generator - Built a web application to showcase artist's poetry
-- Open Animation - Web application to open source animation projects - allowing artist's to collaborate on animation
-- Astrophysics analysis - Using python to analyse star clusters for spiral galaxies
-
-There are lots of other projects as well, but I won't overview them all.  
 
 
 
