@@ -1,3 +1,6 @@
+Key Projects: 
+- Generative AI/ Mobile development - 
+
 All of my projects, some were startups, some were projects I was paid for commercially, most are passion projects. 
 
 These projects include anything I'm interested in and have taught myself so there is a wide range of projects and technologies such as: 
