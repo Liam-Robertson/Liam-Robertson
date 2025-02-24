@@ -4,7 +4,7 @@ Currently working on generative AI.
 
 Key Projects: 
 - Open Party - Generative AI/ Mobile development - https://github.com/Liam-Robertson/openparty
-- Smart Alarm Project - Firmware, Mobile development, Electronics Engineering - https://github.com/Liam-Robertson/extreme-alarm
+- Smart Alarm Project - Firmware, Electronics Engineering - https://github.com/Liam-Robertson/extreme-alarm
 - Data Analysis - Python - https://github.com/Liam-Robertson/star-cluster-analysis
 - Poem Generator - Desktop Development - https://github.com/Liam-Robertson/poem-generator-electron
 - Open Animation - Web Development - https://github.com/Liam-Robertson/open-animation-frontend
