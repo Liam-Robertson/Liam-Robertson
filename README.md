@@ -2,6 +2,7 @@ Key Projects:
 - Open Party - Generative AI/ Mobile development - https://github.com/Liam-Robertson/openparty
 - Alarm Project - Hardware, Firmware, Mobile development - https://github.com/Liam-Robertson/extreme-alarm
 - Data Analysis - Python - https://github.com/Liam-Robertson/star-cluster-analysis
+- Poem Generator - Desktop Development - https://github.com/Liam-Robertson/poem-generator-electron
 
 All of my projects, some were startups, some were projects I was paid for commercially, most are passion projects. 
 
