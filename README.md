@@ -21,7 +21,7 @@ These projects include anything I'm interested in and have taught myself so ther
 
 Overview: 
 - Open Party - Using Generative AI to make local government more transparent - financial analysis/ policy analysis
-- Alarm Project - Building a smart alarm clock end to end - with full mobile application, 3d printing, and hardware
+- Alarm Project - Building a smart alarm clock end to end - with full mobile application, firmware, PCB electronics design, and hardware
 - Poem Generator - Built a web application to showcase artist's poetry
 - Open Animation - Web application to open source animation projects - allowing artist's to collaborate on animation
 - Astrophysics analysis - Using python to analyse star clusters for spiral galaxies
