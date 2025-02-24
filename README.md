@@ -1,5 +1,7 @@
 All of my projects. Some were startups, some were projects I was paid for, most are passion projects. 
 
+Currently working on generative AI. 
+
 Key Projects: 
 - Open Party - Generative AI/ Mobile development - https://github.com/Liam-Robertson/openparty
 - Alarm Project - Hardware, Firmware, Mobile development - https://github.com/Liam-Robertson/extreme-alarm
