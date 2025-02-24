@@ -6,6 +6,7 @@ These projects include anything I'm interested in and have taught myself so ther
 - Firmware (C++, hardware, firmware, 3D printing, bluetooth long distance, ESP32, arduino etc)
 - Web Development (Angular, java, scala)
 - Desktop applications (typescript, javascript angular)
+- Astrophysics work (Python, data analysis) 
 
 
 
