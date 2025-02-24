@@ -7,6 +7,7 @@ Key Projects:
 - Poem Generator - Desktop Development - https://github.com/Liam-Robertson/poem-generator-electron
 - Open Animation - Web Development - https://github.com/Liam-Robertson/open-animation-frontend
 
+
 These projects include anything I'm interested in and have taught myself so there is a wide range of projects and technologies such as: 
 - Generative AI (python scripting, Open AI, API, RAG etc)
 - Mobile development (kotlin, cross platform, compose etc)
