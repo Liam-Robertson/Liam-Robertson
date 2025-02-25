@@ -16,8 +16,6 @@ Overview:
 - Open Animation - Web application to open source animation projects - allowing artist's to collaborate on animation
 - Astrophysics analysis - Using python to analyse star clusters for spiral galaxies
 
-There are lots of other projects as well, but I won't overview them all.  
-
 These projects include anything I'm interested in and have taught myself so there is a wide range of projects and technologies such as: 
 - Generative AI (python scripting, Open AI, API, RAG etc)
 - Mobile development (kotlin, cross platform, compose etc)
